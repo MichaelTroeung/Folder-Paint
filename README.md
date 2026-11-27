@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/Images/icon.icns" width = "70"><br/>
+  <img src="/Images/icon.png" width = "70"><br/>
 <b>Audio Dock</b>
 </p>
 
