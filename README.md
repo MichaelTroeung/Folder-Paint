@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="/Images/icon.png" width = "70"><br/>
-<b>Audio Dock</b>
+<b>Folder Paint</b>
 </p>
 
 
@@ -27,7 +27,7 @@
 <br/>
 
 ### Project Files 
-[Audio Dock Source Files](https://github.com/MichaelTroeung/Audio-Dock/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/Audio-Dock/releases/download/Release/Audio.Dock.app.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Folder Paint Source Files](https://github.com/MichaelTroeung/Audio-Dock/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/Audio-Dock/releases/download/Release/Audio.Dock.app.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 MacOS [.dmg] installer available above. <b> NOTE: On MacOS right click and open to override warning. </b>
