@@ -27,7 +27,7 @@
 <br/>
 
 ### Project Files 
-[Folder Paint Source Files](https://github.com/MichaelTroeung/Audio-Dock/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/Audio-Dock/releases/download/Release/Audio.Dock.app.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Folder Paint Source Files](https://github.com/MichaelTroeung/Folder-Paint/tree/main)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MacOS Build [dmg]](https://github.com/MichaelTroeung/Audio-Dock/releases/download/Release/Audio.Dock.app.zip)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 MacOS [.dmg] installer available above. <b> NOTE: On MacOS right click and open to override warning. </b>
