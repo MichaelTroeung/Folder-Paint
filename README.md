@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="/Images/Icon.png" width = "70"><br/>
+  <img src="/Images/icon.icns" width = "70"><br/>
 <b>Audio Dock</b>
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align ="center">
-<img src = "Images/Audio_Dock_Preview.png" width = "400">
+<img src = "Images/Folder_Paint.png" width = "400">
 </p>
 
 ### Features
